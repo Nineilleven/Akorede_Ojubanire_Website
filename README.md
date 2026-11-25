@@ -5,7 +5,7 @@ A plain HTML, CSS and JavaScript copy of the Webflow site at ojubanire-akorede.w
 ## Files
 
 - `index.html`: Home, with the project index, the project panel, the About panel and the Gallery panel
-- `selected-works.html`: the Works page with all six case studies (MyGadgetPadi, Afriskaut, SooLovely Honey, Acrux Sirius, Realms Safety, Bund)
+- `selected-works.html`: the Works page with all seven case studies (MyGadgetPadi, Afriskaut, SooLovely Honey, Acrux Sirius, Realms Safety, Bund, Rathlin Island)
 - `css/styles.css`: every style from the Webflow project, with its tablet and phone breakpoints
 - `css/overrides.css`: the rules that were added through code embeds in Webflow (project panel, back and next buttons, Gallery layout, scroll reveal)
 - `js/main.js`: the panel behaviour (open a project, About or Gallery, back and next, Escape to close) and the image reveal on scroll
