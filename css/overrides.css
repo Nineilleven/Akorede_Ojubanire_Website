@@ -48,6 +48,7 @@
 .gl-name{color:#111111;font-weight:500}
 .gl-feat{color:#8a8a8a}
 @media (max-width:991px){.gl-head{flex-direction:column;gap:.25rem}.gl-grid{grid-template-columns:repeat(2,minmax(0,1fr));row-gap:3rem}.gl-item:nth-child(n){grid-column:auto;margin-top:0}.gl-item:nth-child(even){margin-top:3rem}.gl-item.is-land:nth-child(n){grid-column:1 / -1;margin-top:0}}
+@media (min-width:992px){.gl-item.is-land[data-pos="photo-a"]{grid-column:2 / span 5;margin-top:0}.gl-item.is-land[data-pos="photo-b"]{grid-column:8 / span 4;margin-top:4rem}.gl-item.is-land[data-pos="photo-c"]{grid-column:4 / span 5;margin-top:0}}
 
 /* Short browser windows: keep the intro text clear of the project index */
 @media (min-width:992px) and (max-height:740px){
